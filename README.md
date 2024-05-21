@@ -76,5 +76,5 @@ fetch("https://api.lahrim.fr/aleatoire/vignette")
 
 
 ## Informations
-Les photos sont sous licence CC–BY–NC.
+Les photos sont sous licence CC–BY–NC.  
 Cela permet toute exploitation de l’œuvre, sauf à des fins commerciales.
